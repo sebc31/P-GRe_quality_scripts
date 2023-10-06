@@ -13,7 +13,7 @@ TAIR10.pseudogenes.gff is a TAIR10 GFF file. It was modified with the grep comma
  pseudogenes-related informations.
 idFromBlastTEG.id is the id of predicted pseudogenes that aligned with a known (annotated) TE gene sequences from
  TAIR10. It was obtained from the blastCDSvsTEG.blast file, which is the ouput of BLAST alignment of all predicted
- pseudogenes against all TE gene sequences
+ pseudogene' CDS against all TE gene sequences
 proteome_vs_masked_genome_tblastn.blast is a P-GRe working file. It is the output of the very first local alignment made
  by P-GRe (see README.md on P-GRe GitHub page)
 
