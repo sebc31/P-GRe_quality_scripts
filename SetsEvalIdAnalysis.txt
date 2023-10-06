@@ -1,0 +1,38 @@
+6268 known TE are overlapped by 2729 unique predicted pseudogenes.
+779 known PG are overlapped by 749 unique predicted pseudogenes.
+4505 unique predicted pseudogenes aligns with known TE sequences. 2186 of them also cover known TE.
+2319 of them don t cover known TE.
+3411 unique predicted pseudogenes don t align or cover any known TE.
+2913 unique predicted pseudogenes might be new.
+
+-------------------------------------------
+PG_c_kPG
+-------------------------------------------
+Maximum E-value: 0.01
+mean_Eval: 0.00010492013117829408
+mean_aln_len: 78.65091463414635
+mean_id: 62.696807621951216
+
+-------------------------------------------
+PG_c_kTE
+-------------------------------------------
+Maximum E-value: 0.01
+mean_Eval: 8.766660212723627e-05
+mean_aln_len: 49.44121272825333
+mean_id: 61.63278827336407
+
+-------------------------------------------
+PG_dca_kTE
+-------------------------------------------
+Maximum E-value: 0.01
+mean_Eval: 7.727261271227817e-05
+mean_aln_len: 53.904428641306396
+mean_id: 63.141631372990595
+
+-------------------------------------------
+PG_dc_kPG_dcda_kTE
+-------------------------------------------
+Maximum E-value: 0.01
+mean_Eval: 0.0004940170963321378
+mean_aln_len: 49.76853887667399
+mean_id: 63.808434139516216
