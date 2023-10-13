@@ -10,7 +10,7 @@ common.pseudoprot.PGRE.faa and common.pseudoprot.TAIR10.faa are the FASTA sequen
  that despite the name "pseudogenic_exon", these type of sequences are most likely rather pseudo-CDS.
 Arabidopsis_thaliana.TAIR10.pep.all.fa is the proteome sequences file, downloaded from Ensembl Plant
 
-Output of this script is directed to the strandard output. A copy of the result is saved on the Results.txt file
+Output of this script is directed to the strandard output. A copy of the result is saved on the AlignVsProtSeq.txt file
 '''
 
 import math
