@@ -1,0 +1,54 @@
+----------------- P-GRe pseudogenes overlapping known pseudogene -----------------
+----- Completness:
+Copy 19.48 143
+Fragment 35.42 260
+Fragments 29.43 216
+Fragment or degraded copy 15.67 115
+----- Type:
+Chimeric pseudogene 29.43 216
+Duplicated pseudogene 12.67 93
+(Iso)retropseudogene 3.13 23
+Retropseudogene 6.54 48
+Unknown 48.23 354
+
+--------------------- P-GRe pseudogenes overlapping known TE ---------------------
+----- Completness:
+Copy 9.2 249
+Fragment 23.16 627
+Fragments 50.46 1366
+Fragment or degraded copy 17.18 465
+----- Type:
+Chimeric pseudogene 50.46 1366
+Duplicated pseudogene 5.21 141
+(Iso)retropseudogene 0.85 23
+Retropseudogene 6.06 164
+Unknown 37.42 1013
+
+----- P-GRe predictions not overlapping known PG or TE, not aligning with TE -----
+----- Completness:
+Copy 7.06 204
+Fragment 56.21 1624
+Fragments 8.2 237
+Fragment or degraded copy 28.52 824
+----- Type:
+Chimeric pseudogene 8.2 237
+Duplicated pseudogene 3.95 114
+(Iso)retropseudogene 0.14 4
+Retropseudogene 7.48 216
+Unknown 80.24 2318
+
+------------------------------ Total predictions ---------------------------------
+----- Completness:
+Copy 11.81 999
+Fragment 42.1 3561
+Fragments 26.26 2221
+Fragment or degraded copy 19.83 1677
+----- Type:
+Chimeric pseudogene 26.26 2221
+Duplicated pseudogene 5.32 450
+(Iso)retropseudogene 0.65 55
+Retropseudogene 5.72 484
+Unknown 62.05 5248
+
+/!\ Please note that P-GRe classify as "Chimeric pseudogene" pseudogenes that have more than one parent gene.
+Having more than one parent can indeed be due to true chimeric case, but also to sequence divergence. /!\
